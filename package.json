@@ -7,6 +7,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
+    "react-bootstrap": "^2.7.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
@@ -34,5 +35,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {
+    "hardhat": "^2.12.7"
+  },
+  "description": "기존의 비온미디어와는 별개로 Web3 기능을 추가한 미니 웹사이트 프로젝트를 작성",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
